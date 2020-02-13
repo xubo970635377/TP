@@ -5,3 +5,5 @@
 /WebApplication1/.vs/WebApplication1/v16/Server/sqlite3
 /WebApplication1/.vs/WebApplication1/v16
 /WebApplication1/.vs/WebApplication1/DesignTimeBuild
+/WebApplication1/bin/Debug/netcoreapp2.2
+/WebApplication1/obj/Debug/netcoreapp2.2
